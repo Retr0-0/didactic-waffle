@@ -1,1 +1,1 @@
-print("Saroj is a boy.")
+print("Saroj is a guy.")
