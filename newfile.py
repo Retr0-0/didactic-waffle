@@ -1,2 +1,2 @@
-print("Saroj is a guy.")
+print("Saroj is a gay.")
 #Change 1
